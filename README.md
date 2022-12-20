@@ -16,5 +16,3 @@
   - [Women in Data Science Datathon 2022: Predict Site EUI](https://github.com/iolaitan/Hackathon/blob/main/WIDS.ipynb): Predicts the Site Energy Usage Intensity for each observation of building energy usage records.
  
   - [Binary Classification: Insurance Fraud Detection](https://github.com/iolaitan/Insurance-Fraud-Detection): Built models to predict whether a claim is fraudulent or not given a number of factors such as accident area, gender, fault, base policy, past number of claims, witness present and police report filed; provided when each claim is made.
- 
-  - [Women in Data Science Datathon 2023: TBC]:
