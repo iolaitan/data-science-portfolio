@@ -17,4 +17,4 @@
  
   - [Insurance Fraud Detection](https://github.com/iolaitan/Insurance-Fraud-Detection):
  
-  -   - [Women in Data Science Datathon 2023: TBC]:
+  - [Women in Data Science Datathon 2023: TBC]:
